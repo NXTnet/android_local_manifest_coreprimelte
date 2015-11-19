@@ -11,5 +11,5 @@ Initialize repo:
 
 Compile:
 
-    . build/envsetup.sh
+    .build/envsetup.sh
     brunch
