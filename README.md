@@ -1,4 +1,4 @@
-Repositories that are needed to build CyanogenMod 12.1
+Repositories that are needed to build CyanogenMod 12.1 for Samsung Galaxy Core Prime (SM-G360F)
 
 How to build:
 -------------
