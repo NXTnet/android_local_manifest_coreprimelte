@@ -2,7 +2,6 @@
 <manifest>
     <!-- Remove Telecomm -->
     <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
-    <remove-project name="CyanogenMod/android_bootable_recovery" />
 
     <!-- Device repos -->
     <!-- coreprimelte -->
@@ -26,8 +25,5 @@
     <!-- CM replacements -->
     <project path="packages/services/Telecomm" name="NXTnet/android_packages_services_Telecomm" revision="cm-12.1" />
 
-    <!-- TWRP -->
-    <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-5.1" />
-	
 </manifest>
 
