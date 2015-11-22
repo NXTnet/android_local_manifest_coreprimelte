@@ -14,7 +14,7 @@
     <project path="vendor/samsung/coreprimelte" name="NXTnet/android_vendor_samsung_coreprimelte" revision="cm-12.1" />
 
     <!-- Common device repos -->
-    <project path="device/samsung/qcom-common" name="NXTnet/android_device_samsung_qcom-common" revision="cm-12.1" />
+    <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
 
     <!-- Hardware -->
