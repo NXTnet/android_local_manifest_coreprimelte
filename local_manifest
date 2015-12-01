@@ -10,19 +10,20 @@
     <project path="device/samsung/coreprimeltexx" name="NXTnet/android_device_samsung_coreprimeltexx" revision="cm-12.1" />
 
     <!-- Kernels -->
-    <project path="kernel/samsung/msm8916-caf" name="NXTnet/android_kernel_samsung_msm8916-caf" revision="cm-12.1" />
     <project path="kernel/samsung/coreprimelte" name="NXTnet/android_kernel_samsung_coreprimelte" revision="cm-12.1" />
+    <project path="kernel/samsung/msm8916-caf" name="NXTnet/android_kernel_samsung_msm8916-caf" revision="cm-12.1" />
 
     <!-- Vendor -->
     <project path="vendor/samsung/coreprimelte" name="NXTnet/android_vendor_samsung_coreprimelte" revision="cm-12.1" />
+    <project path="vendor/samsung/coreprimelte-common" name="NXTnet/android_vendor_samsung_coreprimelte-common" revision="cm-12.1" />
 
     <!-- Common device repos -->
-    <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
+    <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
 
     <!-- Hardware -->
-    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
     <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" revision="cm-12.1" />
+    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
     <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-12.1" />
 
     <!-- CM replacements -->
