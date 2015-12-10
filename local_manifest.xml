@@ -5,7 +5,6 @@
 
     <!-- Device repos -->
     <!-- coreprimelte -->
-    <project path="device/samsung/coreprimelte" name="NXTnet/android_device_samsung_coreprimelte" revision="cm-12.1" />
     <project path="device/samsung/coreprimelte-common" name="NXTnet/android_device_samsung_coreprimelte-common" revision="cm-12.1" />
     <project path="device/samsung/coreprimeltexx" name="NXTnet/android_device_samsung_coreprimeltexx" revision="cm-12.1" />
 
@@ -14,7 +13,6 @@
     <project path="kernel/samsung/msm8916-caf" name="NXTnet/android_kernel_samsung_msm8916-caf" revision="cm-12.1" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung/coreprimelte" name="NXTnet/android_vendor_samsung_coreprimelte" revision="cm-12.1" />
     <project path="vendor/samsung/coreprimelte-common" name="NXTnet/android_vendor_samsung_coreprimelte-common" revision="cm-12.1" />
 
     <!-- Common device repos -->
