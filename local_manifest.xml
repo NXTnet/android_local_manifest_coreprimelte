@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- Remove Telecomm -->
-    <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
+    <!-- Remove -->
     <remove-project name="platform/frameworks/testing" />
 
     <!-- Device repos -->
@@ -24,9 +23,5 @@
     <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" revision="cm-12.1" />
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
     <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-12.1" />
-
-    <!-- CM replacements -->
-    <project path="packages/services/Telecomm" name="NXTnet/android_packages_services_Telecomm" revision="cm-12.1" />
-
 </manifest>
 
